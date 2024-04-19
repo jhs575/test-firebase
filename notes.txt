@@ -1,0 +1,16 @@
+npm create vite@latest name-of-your-project -- --template react
+
+cd project name
+
+npm install react-router-dom localforage match-sorter sort-by
+
+npm install -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
+index.css > @tailwind base; @tailwind components; @tailwind utilities;
+
+package.json > devDependencies> "daisyui": "^3",
+
+npm install firebase
+
