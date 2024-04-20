@@ -14,3 +14,6 @@ package.json > devDependencies> "daisyui": "^3",
 
 npm install firebase
 
+create login page > in function > const auth = getAuth(app) ;const provider = new GoogleAuthProvider();
+
+import google auth provider
